@@ -1,0 +1,11 @@
+.dividerLine {
+  width: 100%;
+  margin-bottom: 2rem;
+  height: 100px;
+  background: rgb(67, 143, 167);
+  background: linear-gradient(
+    220deg,
+    rgba(67, 143, 167, 1) 35%,
+    rgba(31, 76, 97, 1) 100%
+  );
+}
